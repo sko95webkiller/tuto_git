@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 alert("B");
-=======
 alert("A");
->>>>>>> 06aaaf2 (A3 script.js)
+alert("3");
+alert("4");
+alert("5");
+alert("6");
